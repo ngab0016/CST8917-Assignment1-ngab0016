@@ -1,4 +1,4 @@
-# CST8917 Assignment 1: Serverless Computing — Critical Analysis
+# CST8917 Assignment 1: Serverless Computing Critical Analysis
 
 **Name:** Kelvin Ngabo 
 **Student Number:** 041196196 
